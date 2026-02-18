@@ -1,5 +1,5 @@
 The main concept behind the EZ Grade application is to allow for streamlined application of both field data and blueprints 
-to create easy to use refernces data alongside on site grade checking equipment.
+to create easy to use reference data alongside on site grade checking equipment.
 
 Core Functions:
     - Take starting and ending points (x,y,z) and give slope and interval points.
